@@ -1,0 +1,58 @@
+
+
+.container{
+
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+
+}
+
+
+.title{
+
+	text-align: right;
+	margin-top: 60px;
+}
+
+
+p{
+	font-size: 38px;
+	font-weight: bold;
+	color: #345995;
+}
+
+
+.lol{
+	display: inline-block;
+	width: 300px;
+	height: 80px;
+	font-size: 26px;
+	text-align: right;
+}
+
+
+.loool{
+	width: 100px;
+}
+
+
+.product{
+	display: inline-block;
+	width: 280px;
+	height: 260px;
+	margin: 1em;
+	text-align: center;
+}
+
+.imagen{
+	width: 200px;
+	height: 180px;
+	text-align: center;
+	
+}
+
+.link{
+	text-align: right;
+	font-size: 20px;
+}
